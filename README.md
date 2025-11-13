@@ -28,6 +28,7 @@ APPARATUS REQUIRED: Personal computer with Keil software
 • End
 
 **FLOW CHART:**
+
 <img width="261" height="308" alt="image" src="https://github.com/user-attachments/assets/bffe89f6-3ba9-4294-b817-8b545f680e66" />
 
 **Program:**
@@ -63,15 +64,20 @@ THIN:
 END
 
 **Output:**  
+![WhatsApp Image 2025-11-13 at 15 48 54_e2498570](https://github.com/user-attachments/assets/78658e47-49fb-48c5-a18f-6d3441a1e9ee)
 
 <br>
 <br>
 <br>
+
+
 
 
 
 **Manual Calculations:**  
 
+
+![WhatsApp Image 2025-11-12 at 22 45 23_b7a6e651](https://github.com/user-attachments/assets/f3ca33c4-2c1c-4f54-b177-dd4a3133dfee)
 <br>
 <br>
 <br>
